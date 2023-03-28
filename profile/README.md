@@ -1,1 +1,3 @@
 # Welcome to Software Aurora (SORA) Lab's GitHub Repository
+
+Software Aurora (SORA) Lab is a research group led by Joshua Garcia at the University of California, Irvine. SORA Lab focuses on software engineering with a specific focus on mobile security, testing, and analysis, software architecture, and software maintenance and re-engineering. The lab is a part of the Informatics Department of the Donald Bren School of Information and Computer Sciences (ICS) at the University of California, Irvine (UCI). Through its research, SORA Lab aims to advance the field of software engineering and improve the security and efficiency of software systems.
