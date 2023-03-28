@@ -1,1 +1,1 @@
-# Welcome to SoftWARE Aurora (SORA) Lab's GitHub Repository
+# Welcome to Software Aurora (SORA) Lab's GitHub Repository
